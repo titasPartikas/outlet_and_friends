@@ -1,0 +1,12 @@
+.nav {
+    padding: 1rem;
+    display: block;
+    width: 100%;
+    background-color: black;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+}
